@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi, This is Yisi! I'm a PhD candidate in the School of Information Studies at Syracuse University, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/). Before joining iSchool, I got my Master's degree in Teaching & Curriculum and my Bachelor's Degree in German with a minor in psychology (psychometrics).
+Hi, This is Yisi! I'm a PhD candidate in the School of Information Studies at Syracuse University, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/). Before joining iSchool, I got my Master's degree in Teaching & Curriculum and my Bachelor's Degree in German with a minor in psychology (psychometrics). My research draws upon educational and psychological theories to explore “How do we get machines to understand what they read?” and evaluate machines' ability to understand. 
 
 News
 ======
