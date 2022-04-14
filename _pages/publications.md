@@ -20,3 +20,8 @@ author_profile: true
 __TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='/files/tvshowguess.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
 <u>Yisi Sang</u>, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
 _NAACL 2022_ <br>
+
+__The Origin and Value of Disagreement Among Data Labelers: A Case Study of Individual Differences in Hate Speech Annotation__ [<a href='/files/hatespeechannotation.pdf'>PDF</a>] <br>
+<u>Yisi Sang</u>, Jeffrey Stanton<br>
+_iConference 2022_ <br>
+.
