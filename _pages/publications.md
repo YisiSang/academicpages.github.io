@@ -17,15 +17,15 @@ author_profile: true
 
 ## 2022 ## 
 
-__A Survey of Machine Narrative Reading Comprehension Assessments__ [<a href='/files/NarrativeSurvey.pdf'>PDF</a>] <br>
+__A Survey of Machine Narrative Reading Comprehension Assessments__ [<a href='https://yisisang.github.io/files/NarrativeSurvey.pdf'>PDF</a>] <br>
 <u>Yisi Sang</u>, Xiangyang Mou, Mo Yu, Jing Li, Jeffrey Stanton<br>
 _IJCAI 2022_ <br>
 
-__TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='/files/tvshowguess.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
+__TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='https://arxiv.org/pdf/2204.07721.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
 <u>Yisi Sang</u>, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
 _NAACL 2022_ <br>
 
-__The Origin and Value of Disagreement Among Data Labelers: A Case Study of Individual Differences in Hate Speech Annotation__ [<a href='/files/hatespeechannotation.pdf'>PDF</a>] <br>
+__The Origin and Value of Disagreement Among Data Labelers: A Case Study of Individual Differences in Hate Speech Annotation__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
 <u>Yisi Sang</u>, Jeffrey Stanton<br>
 _iConference 2022_ <br>
 .
