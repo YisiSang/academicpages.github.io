@@ -14,6 +14,6 @@ Hi, This is Yisi! I'm a PhD candidate in the School of Information Studies at Sy
 
 News
 ======
-Our survey __A Survey of Machine Narrative Reading Comprehension Assessments__ has been accepted for the IJCAI-ECAI2022 Survey Track (acceptance rate 18%)[<a href='https://arxiv.org/pdf/2205.00299.pdf'>PDF</a>].
+Our survey __A Survey of Machine Narrative Reading Comprehension Assessments__ has been accepted for the IJCAI-ECAI2022 Survey Track (acceptance rate 18%)  [<a href='https://arxiv.org/pdf/2205.00299.pdf'>PDF</a>].
 
 Our paper __TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='https://arxiv.org/pdf/2204.07721.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] has been accepted to NAACL 2022!
