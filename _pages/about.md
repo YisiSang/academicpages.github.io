@@ -14,8 +14,6 @@ Hi, This is Yisi! I'm a final year PhD student in the School of Information Stud
 
 I’m actively looking for data science and research-related positions! Please contact me if you know any opportunities :).
 
-![image](https://user-images.githubusercontent.com/44276323/171918019-de66894c-ef41-4eb5-9fb0-061e4cded108.png)
-
 News
 ======
 Happy to have my first student workshop paper! Our paper __Machine Narrative Comprehension in a Fictional Characters Personality Prediction Task__ has been accepted to NAACL SRW 2022!
