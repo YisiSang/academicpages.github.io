@@ -12,7 +12,7 @@ About Me
 ======
 Hi, This is Yisi! I'm a final year PhD student in the School of Information Studies at Syracuse University, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, I got my Master's degree in Teaching & Curriculum and my Bachelor's Degree in German with a minor in psychology (psychometrics). I conduct research in the intersection between HCI and NLP. My dissertation focuses on designing machine reading comprehension tasks that help models understand fictional characters' personae from story books. I've also studied social interaction and knowledge sharing in online video communities, hate speech detection, and online content moderation on Reddit. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL and NAACL. 
 
-I’m actively looking for data science and research-related positions! Please contact me if you know any opportunities :).
+I’m actively looking for data science and research-related positions! Please contact me if you know any opportunities😀.
 
 News
 ======
