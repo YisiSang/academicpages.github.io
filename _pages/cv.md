@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Science, Syracuse University, 2022 (expected)
-* M.S. in Teaching & Curriculum, Syracuse University, 2017
+* M.S. in Teaching & Curriculum, Syracuse University, 2016
 * B.S. in German, Northwestern Polytechnical University, 2015
