@@ -12,8 +12,6 @@ About Me
 ======
 Hi, this is Yisi! I'm a final year PhD student in the School of Information Studies at Syracuse University, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, I got my Master's degree in Teaching & Curriculum and my Bachelor's Degree in German with a minor in psychology (psychometrics). My current research is at the intersection of NLP, HCI, and Psychometrics, where I design NLP tasks and conduct human studies to evaluate model performance, from which we aim to teach the model to learn like how a human learns. I also design interactive human-in-the-loop ML tools. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL and NAACL. 
 
-I’m actively looking for applied scientist, machine learning engineer, and research-related positions! Please contact me if you know any opportunities😀.
-
 News
 ======
 Happy to have my first student workshop paper! Our paper __Machine Narrative Comprehension in a Fictional Characters Personality Prediction Task__ has been accepted to NAACL SRW 2022!
