@@ -10,10 +10,16 @@ redirect_from:
 
 About Me
 ======
-Hi, this is Yisi! I'm a final year PhD student in the School of Information Studies at Syracuse University, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, I got my Master's degree in Teaching & Curriculum and my Bachelor's Degree in German with a minor in psychology (psychometrics). My current research is at the intersection of NLP, HCI, and Psychometrics, where I design NLP tasks and conduct human studies to evaluate model performance. I also design interactive human-in-the-loop ML tools. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL and NAACL. 
+I am a Machine Learning Engineer with an interdisciplinary background in Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Psychometrics. My previous experience in evaluation task design, large-scale data pipeline products, Large Language Model (LLM) research, and user interface and user experience (UI/UX) design equips me with a diverse skillset, collaborative mindset, and deliverable-driven attitude towards the next exciting adventure in the era of AI.
+
+I got my PhD from Syracuse University, School of Information Studies, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, my Master program is about quantitative Research, Evaluation and Measurement and my Bachelor's Degree in German (linguistics) with a minor in psychology (psychometrics). My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL and NAACL. 
 
 News
 ======
+Our paper __FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge__ has been accepted to EMNLP2023![<a href='https://aclanthology.org/2023.emnlp-demo.10.pdf'>PDF</a>].
+
+Our paper __Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba’s Taobao and ByteDance’s Douyin__ has been accepted to TOCHI![<a href='https://arxiv.org/pdf/2111.10491.pdf'>PDF</a>].
+
 Happy to have my first student workshop paper! Our paper __Machine Narrative Comprehension in a Fictional Characters Personality Prediction Task__ has been accepted to NAACL SRW 2022!
 
 Our survey __A Survey of Machine Narrative Reading Comprehension Assessments__ has been accepted to the IJCAI-ECAI2022 Survey Track (acceptance rate 18%)  [<a href='https://arxiv.org/pdf/2205.00299.pdf'>PDF</a>].
