@@ -10,9 +10,10 @@ redirect_from:
 
 About Me
 ======
-I am a Machine Learning Engineer with an interdisciplinary background in Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Psychometrics. My previous experience in evaluation task design, large-scale data pipeline products, Large Language Model (LLM) research, and user interface and user experience (UI/UX) design equips me with a diverse skillset, collaborative mindset, and deliverable-driven attitude towards the next exciting adventure in the era of AI.
+I am a Machine Learning Engineer with an interdisciplinary background in Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Psychometrics (focusing on evaluation and measurement). My previous experience in evaluation task design, large-scale data pipeline products, Large Language Model (LLM) research, and user interface and user experience (UI/UX) design equips me with a diverse skillset, collaborative mindset, and deliverable-driven attitude towards the next exciting adventure in the era of AI. 
 
-I got my PhD from Syracuse University, School of Information Studies, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, my Master's program is about quantitative Research, Evaluation and Measurement and my Bachelor's Degree in German (linguistics) with a minor in psychology (psychometrics). My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL, NAACL, and EMNLP. 
+I got my PhD from Syracuse University, School of Information Studies, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, my Master's program is about Quantitative Research, Evaluation and Measurement. My undergraduate major is German. (linguistics) with a minor in psychology (psychometrics). I have always persisted in doing cutting-edge research. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL, NAACL, and EMNLP. 
+
 
 News
 ======
