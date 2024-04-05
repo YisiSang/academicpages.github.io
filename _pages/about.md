@@ -17,6 +17,8 @@ I got my PhD from Syracuse University, School of Information Studies, advised by
 
 News
 ======
+Our paper __In-Context Sampling Strategy for Reliable LLM Prompting__ (Arxiv version will be updated soon) was accepted to NAACL 2024!
+
 Our paper __FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge__ has been accepted to EMNLP2023! [<a href='https://aclanthology.org/2023.emnlp-demo.10.pdf'>PDF</a>].
 
 Our paper __Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba’s Taobao and ByteDance’s Douyin__ has been accepted to TOCHI! [<a href='https://arxiv.org/pdf/2111.10491.pdf'>PDF</a>].
