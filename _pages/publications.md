@@ -15,6 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+### Selected Publications ###
+Please refer to my CV for the most recent updates on publications.
+
+## 2024 ## 
+__In-Context Sampling Strategy for Reliable LLM Prompting__ 
+<br>Yao, B., Chen, G., Zou, R., Lu, Y., Li, J., Zhang, S., <u>Sang, Y.</u>, Liu, S, Hendler, J., Wang, D.<br>
+_NAACL 2024_
+
+## 2023 ## 
+__FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge__ [<a href='https://aclanthology.org/2023.emnlp-demo.10.pdf'>PDF</a>] <br>Bayat, Farima Fatahi, Kun Qian, Benjamin Han, <u>Yisi Sang</u>, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, and Yunyao Li<br>
+_EMNLP 2023_ <br>
+
+__Malicious Selling Strategies in E-Commerce Livestream: A Case Study of Alibaba’s Taobao and ByteDance’s Douyin__ [<a href='https://arxiv.org/pdf/2111.10491.pdf'>PDF</a>] <br>Qunfang Wu, <u>Yisi Sang</u>, Dakuo Wang, & Zhicong Lu<br>
+_TOCHI_ <br>
+
 ## 2022 ## 
 
 __A Survey of Machine Narrative Reading Comprehension Assessments__ [<a href='https://yisisang.github.io/files/NarrativeSurvey.pdf'>PDF</a>] <br>
